@@ -9,8 +9,7 @@ This project aims to develop an IoT health monitoring system using the MAX30102 
 - Firebase Realtime Database
 
 ## Project Structure
-- **/src:** Contains the source code files for the project.
-  - **.cpp:** This file contains the main code for the project.
+  - **VitalSync_V1.ino:** This file contains the main code for the project.
   - **README.md:** This file provides an overview of the project and instructions for setup and usage.
 
 ## Setup Instructions
