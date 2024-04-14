@@ -9,7 +9,7 @@ This project aims to develop an IoT health monitoring system using the MAX30102 
 - Firebase Realtime Database
 
 ## Project Structure
-  - **VitalSync_V1.ino:** This file contains the main code for the project.
+  - **vitalsync_V1.ino:** This file contains the main code for the project.
   - **README.md:** This file provides an overview of the project and instructions for setup and usage.
 
 ## Setup Instructions
@@ -28,7 +28,7 @@ This project aims to develop an IoT health monitoring system using the MAX30102 
    - Obtain the Firebase project credentials (database URL, authentication key).
 
 4. **Code Configuration:**
-   - Open the `main.cpp` file in the Arduino IDE.
+   - Open the `vitalsync_V1.ino` file in the Arduino IDE.
    - Replace the placeholder Firebase credentials with your actual credentials.
    - Adjust any other configuration parameters as needed.
 
