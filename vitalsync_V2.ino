@@ -7,10 +7,10 @@
 
 #define WIFI_SSID "Test"
 #define WIFI_PASSWORD "12345678"
-#define API_KEY "AIzaSyBjG0S014EWiaH4BBUsg_JpRjr4pbw6Ffw"
-#define DATABASE_URL "https://vitals-monitor-9a695-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define USER_EMAIL "advaithmanoj10@gmail.com"
-#define USER_PASSWORD "hello123"
+#define API_KEY ""
+#define DATABASE_URL ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 FirebaseData fbdo;
 FirebaseAuth auth;
